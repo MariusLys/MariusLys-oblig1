@@ -7,7 +7,7 @@ The purpose of the project is to verify that Python, virtual environment setup, 
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/MariusLys-oblig1.git
+   git clone https://github.com/MariusLys/MariusLys-oblig1.git
    cd MariusLys-oblig1
    ```
 2. Create a virtual environment:
